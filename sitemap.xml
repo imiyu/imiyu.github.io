@@ -2,34 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://imiyu.github.io/post/first/</loc>
+    <loc>http://example.org/post/first/</loc>
     <lastmod>2017-04-20T14:37:26+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://imiyu.github.io/about/</loc>
+    <loc>http://example.org/about/</loc>
     <lastmod>2017-04-20T11:58:26+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://imiyu.github.io/categories/</loc>
+    <loc>http://example.org/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://imiyu.github.io/</loc>
+    <loc>http://example.org/</loc>
     <lastmod>2017-04-20T14:37:26+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://imiyu.github.io/post/</loc>
+    <loc>http://example.org/post/</loc>
     <lastmod>2017-04-20T14:37:26+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://imiyu.github.io/tags/</loc>
+    <loc>http://example.org/tags/</loc>
     <priority>0</priority>
   </url>
   
