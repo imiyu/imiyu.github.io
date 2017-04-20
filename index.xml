@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IMIYU</title>
+    <link>http://imiyu.github.io/</link>
+    <description>Recent content on IMIYU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 20 Apr 2017 14:37:26 +0800</lastBuildDate>
+    
+	<atom:link href="http://imiyu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>first</title>
+      <link>http://imiyu.github.io/post/first/</link>
+      <pubDate>Thu, 20 Apr 2017 14:37:26 +0800</pubDate>
+      
+      <guid>http://imiyu.github.io/post/first/</guid>
+      <description>hello hugo</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>http://imiyu.github.io/about/</link>
+      <pubDate>Thu, 20 Apr 2017 11:58:26 +0800</pubDate>
+      
+      <guid>http://imiyu.github.io/about/</guid>
+      <description>abc</description>
+    </item>
+    
+  </channel>
+</rss>
