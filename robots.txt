@@ -1,2 +1,1 @@
 User-agent: *
-Sitemap: https://imiyu.github.io/sitemap.xml

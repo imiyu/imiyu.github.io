@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>D计划</title>
-    <link>https://imiyu.github.io/</link>
+    <link>https://djihua.com/</link>
     <description>Recent content on D计划</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
+    <language>zh-CN</language>
     <lastBuildDate>Thu, 20 Apr 2017 14:37:26 +0800</lastBuildDate>
     
-	<atom:link href="https://imiyu.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://djihua.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>first</title>
-      <link>https://imiyu.github.io/post/first/</link>
+      <link>https://djihua.com/post/first/</link>
       <pubDate>Thu, 20 Apr 2017 14:37:26 +0800</pubDate>
       
-      <guid>https://imiyu.github.io/post/first/</guid>
+      <guid>https://djihua.com/post/first/</guid>
       <description>hello hugo</description>
     </item>
     
     <item>
       <title>about</title>
-      <link>https://imiyu.github.io/about/</link>
+      <link>https://djihua.com/about/</link>
       <pubDate>Thu, 20 Apr 2017 11:58:26 +0800</pubDate>
       
-      <guid>https://imiyu.github.io/about/</guid>
+      <guid>https://djihua.com/about/</guid>
       <description>abc</description>
     </item>
     
