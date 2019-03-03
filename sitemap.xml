@@ -3,41 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://djihua.com/post/first/</loc>
+    <loc>http://djihua.com/post/first/</loc>
     <lastmod>2017-04-20T14:37:26+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://djihua.com/about/</loc>
+    <loc>http://djihua.com/about/</loc>
     <lastmod>2017-04-20T11:58:26+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://djihua.com/categories/</loc>
+    <loc>http://djihua.com/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://djihua.com/</loc>
+    <loc>http://djihua.com/</loc>
     <lastmod>2017-04-20T14:37:26+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://djihua.com/post/</loc>
+    <loc>http://djihua.com/post/</loc>
     <lastmod>2017-04-20T14:37:26+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://djihua.com/tags/</loc>
+    <loc>http://djihua.com/tags/</loc>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>

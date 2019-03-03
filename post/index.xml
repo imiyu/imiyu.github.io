@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on D计划</title>
-    <link>https://djihua.com/post/</link>
+    <link>http://djihua.com/post/</link>
     <description>Recent content in Posts on D计划</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Thu, 20 Apr 2017 14:37:26 +0800</lastBuildDate>
     
-	<atom:link href="https://djihua.com/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://djihua.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>first</title>
-      <link>https://djihua.com/post/first/</link>
+      <link>http://djihua.com/post/first/</link>
       <pubDate>Thu, 20 Apr 2017 14:37:26 +0800</pubDate>
       
-      <guid>https://djihua.com/post/first/</guid>
+      <guid>http://djihua.com/post/first/</guid>
       <description>hello hugo</description>
     </item>
     
